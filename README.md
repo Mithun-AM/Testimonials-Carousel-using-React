@@ -20,7 +20,7 @@ This project demonstrates how to create a testimonial slider component using Rea
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/https://github.com/Mithun-AM/Testimonials-Carousel-using-React.git
+   git clone https://github.com/Mithun-AM/Testimonials-Carousel-using-React.git
 
 2. **Navigate to the project directory:**
    ```bash
