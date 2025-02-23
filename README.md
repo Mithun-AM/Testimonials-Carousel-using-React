@@ -3,8 +3,11 @@
 ## Overview
 This project demonstrates how to create a testimonial slider component using React. A testimonial slider is a common UI element used to display customer or user reviews in a dynamic and engaging way.
 
-## Features
+## Screenshot
+![Testimonial 1](public/image1.png)
+![Testimonial 2](public/image2.png)
 
+## Features
 - Displays user testimonials in a slider format.
 - Supports navigation through buttons.
 - Mobile-responsive for easy use on various devices.
